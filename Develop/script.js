@@ -12,7 +12,7 @@ function generatePassword() {
   var allCharacters = alphabetLowercase.concat(alphabetUppercase, specialCharacters);
 
 
-// ----------------------After message prompts, i cant get the IF statment to execute alerts for any condition.---------------------------
+// ----------------------After the "var userChoice" message prompts, i cant get the IF statment to execute alerts for any condition.---------------------------
 
   // 'userChoice' is the variable for the user input.
   var userChoice = generateBtn.onclick = function() {
