@@ -16,7 +16,7 @@ The first prompt will ask the desired character length, for the new password to 
 
 Click this link to find out: 
 
-![Screenshot1 of password generator](/assets/PassGen_Img_2.png)
+![Screenshot1 of password generator](/assets/PassGen_Img_1.png)
 ![Screenshot2 of password generator](/assets/PassGen_Img_3.png)
 ![Screenshot3 of password generator](/assets/PassGen_Img_4.png)
 
