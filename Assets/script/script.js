@@ -20,7 +20,7 @@ function generatePassword() {
   if (userChoice === null) {
     location.reload();
   } else if (userChoice < min) {
-    alert(`Password length must be atleast 8 characters.`);
+    alert(`Password length must be at least 8 characters.`);
     generatePassword();
   } else if (userChoice >= min && userChoice <= max) {
     var specialChars = confirm('Click OK to confirm including special characters.'); //1st Qestion 
